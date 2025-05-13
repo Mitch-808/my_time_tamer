@@ -1,3 +1,4 @@
+
 My Time Tamer
 
 My Time Tamer is a cross-platform app for task and time management. It helps you organize your work, prioritize tasks, and track your progress with ease.
@@ -17,3 +18,4 @@ Features
     Local Data Storage: All data is stored securely on your device using an SQLite database.
 
     User-Friendly Interface: Manage your tasks easily through a graphical interface.
+
